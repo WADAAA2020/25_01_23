@@ -1,0 +1,11 @@
+C:\Users\gabriel.oliveira32\source\repos\Projeto18Janeiro\bin\Debug\Projeto18Janeiro.exe.config
+C:\Users\gabriel.oliveira32\source\repos\Projeto18Janeiro\bin\Debug\Projeto18Janeiro.exe
+C:\Users\gabriel.oliveira32\source\repos\Projeto18Janeiro\bin\Debug\Projeto18Janeiro.pdb
+C:\Users\gabriel.oliveira32\source\repos\Projeto18Janeiro\obj\Debug\Projeto18Janeiro.csproj.AssemblyReference.cache
+C:\Users\gabriel.oliveira32\source\repos\Projeto18Janeiro\obj\Debug\Projeto18Janeiro.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabriel.oliveira32\source\repos\Projeto18Janeiro\obj\Debug\Projeto18Janeiro.Form1.resources
+C:\Users\gabriel.oliveira32\source\repos\Projeto18Janeiro\obj\Debug\Projeto18Janeiro.Properties.Resources.resources
+C:\Users\gabriel.oliveira32\source\repos\Projeto18Janeiro\obj\Debug\Projeto18Janeiro.csproj.GenerateResource.cache
+C:\Users\gabriel.oliveira32\source\repos\Projeto18Janeiro\obj\Debug\Projeto18Janeiro.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.oliveira32\source\repos\Projeto18Janeiro\obj\Debug\Projeto18Janeiro.exe
+C:\Users\gabriel.oliveira32\source\repos\Projeto18Janeiro\obj\Debug\Projeto18Janeiro.pdb
